@@ -1,3 +1,23 @@
-Machine Learning
+Machine Learning (Subconjunto de la IA)
+
+    El machine learning es una solucion a un problema relacionado a la inteligencia
+    artificial. Aqui nosotros podemos entrenar distintos modelos con una cantidad de
+    datos que tengamos y designar otra cantidad de datos para realizar la prueba 
+    definitiva para que nuestro modelo nos entrege un porcentaje de lo seguro 
+    que esta por cada respuesta.
+
+    Pasos: 
+
+        1- Extraccion de Datos :Traer los datos que construiran al modelo 
+        2- Limpieza de Datos : Tomar los datos utiles y necesarios
+        3- Dividir los datos para pruebas y entrenamiento : Un 20% prueba y un 80% entrenamiento
+        4- Seleccionar un Modelo : Elegir un modelo que ya haya sido creado
+        5- Entrenar el modelo : Le entregamos los datos 
+        6- Realizar predicciones 
+        7- Evaluar y Mejorar
 
 
+    Terminologia 
+         
+        Entrenar : Tener un modelo y entrenarlos para que reconozca un patron o 
+        diferencia segun los datos y requerimientos de la solucion.

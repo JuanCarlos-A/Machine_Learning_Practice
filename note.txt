@@ -21,9 +21,42 @@ Machine Learning (Subconjunto de la IA)
 
         numpy : Libreria para trabajar con arreglos multidimensionales 
         pandas : Libreria para trabajar con datos estructurados
+            DataFrame: Estructuras de matrices de datos en dos dimensiones
         mathplotlib : Libreria para graficar datos
         scikit-learn : Libreria para trabajar con machine learning
         tensorflow : Libreria para trabajar con redes neuronales de mucha data 
+
+
+        Jupyter Notebook : Herramienta para trabajar con python en un entorno web
+        Anaconda : Distribucion de python que incluye todas las librerias necesarias para trabajar 
+        con machine learning.
+
+
+    Pandas Library
+
+        Esta es una libreria de python que nos permite trabajar con datos estructurados dentro de un 
+        DataFrame.
+
+        Dentro de las funcionalidades de pandas nosotros podemos leer una gran cantidad de archivos
+        como csv, excel, json, sql, html, etc.
+
+        En el caso de CSV tenemos el metodo de read_csv que nos permite leer un archivo csv y convertirlo
+        en un DataFrame. En ese caso nosotros podemos trabajar con los datos de una forma sencilla y
+        rapida.
+
+            read_csv('nombre_archivo.csv') : Nos permite leer un archivo csv y convertirlo en un DataFrame
+
+            objeto.head() : Nos permite ver los primeros 5 datos del DataFrame
+
+            objeto.tail() : Nos permite ver los ultimos 5 datos del DataFrame
+
+            objeto.shape : Nos permite ver la cantidad de filas y columnas del DataFrame
+
+            objeto.columns : Nos permite ver los nombres de las columnas del DataFrame
+
+            objeto.describe() : Nos permite ver un resumen de los datos del DataFrame
+
+            objeto.values : Nos permite ver los valores del DataFrame
 
 
     Terminologia 

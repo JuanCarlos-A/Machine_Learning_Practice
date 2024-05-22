@@ -17,6 +17,15 @@ Machine Learning (Subconjunto de la IA)
         7- Evaluar y Mejorar
 
 
+    Herramientas 
+
+        numpy : Libreria para trabajar con arreglos multidimensionales 
+        pandas : Libreria para trabajar con datos estructurados
+        mathplotlib : Libreria para graficar datos
+        scikit-learn : Libreria para trabajar con machine learning
+        tensorflow : Libreria para trabajar con redes neuronales de mucha data 
+
+
     Terminologia 
          
         Entrenar : Tener un modelo y entrenarlos para que reconozca un patron o 
